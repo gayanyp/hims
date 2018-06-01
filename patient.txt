@@ -1,6 +1,6 @@
 age 
 sex 
 DOB
-Bug 1 
+
 ethnicity 
 address
